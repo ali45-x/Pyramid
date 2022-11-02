@@ -1,0 +1,17 @@
+Welcome to help I'm here for You ,Love 
+Overview:
+The goal of the game is to select two cards that add up to 13.
+This clears the cards and unviels cards behind them that are blocked
+For example you can add 10 and 3 , 7 and 6....
+Jacks are 11, Queens is 12 and Kings are 13..
+If you have no options you can click on the foward arrow and scoll trough the cards in the pile at the bottom
+You can also select cards in the pile
+You can always scroll back 
+Strategy:
+USE LOGIC.
+Try clearing the cards that unviels the most card
+Do not waste cards in the pile by clearing two cards in the pile at the same time
+This limits your future moves.. Trust me 
+OTHER:
+Click on the back button below to go back
+Enjoy ,Play till you can't no more 

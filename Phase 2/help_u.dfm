@@ -1,0 +1,52 @@
+object frmHelp: TfrmHelp
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'Help'
+  ClientHeight = 400
+  ClientWidth = 474
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Memo1: TMemo
+    Left = 0
+    Top = 0
+    Width = 473
+    Height = 363
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHotLight
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    Lines.Strings = (
+      'Memo1')
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 360
+    Width = 474
+    Height = 40
+    Align = alBottom
+    BevelOuter = bvNone
+    Caption = 'Back'
+    Color = 8404992
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentBackground = False
+    ParentFont = False
+    TabOrder = 1
+    OnClick = Panel1Click
+  end
+end

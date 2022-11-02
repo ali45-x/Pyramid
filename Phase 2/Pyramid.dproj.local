@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/29 16:54:03.026.pas,C:\Users\yankA\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\yankA\Desktop\pyramid\main_u.pas</Transaction>
+    <Transaction>2019/09/29 16:54:03.041.dfm,C:\Users\yankA\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\yankA\Desktop\pyramid\main_u.dfm</Transaction>
+    <Transaction>2019/09/29 16:54:12.512.pas,C:\Users\yankA\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\yankA\Desktop\pyramid\home_u.pas</Transaction>
+    <Transaction>2019/09/29 16:54:12.512.dfm,C:\Users\yankA\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\yankA\Desktop\pyramid\home_u.dfm</Transaction>
+    <Transaction>2019/09/29 16:54:21.284.dproj,C:\Users\yankA\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\yankA\Desktop\pyramid\Pyramid.dproj</Transaction>
+    <Transaction>2019/09/30 22:12:28.342.pas,C:\Users\yankA\Desktop\pyramid\Unit3.pas=C:\Users\yankA\Desktop\pyramid\help_u.pas</Transaction>
+    <Transaction>2019/09/30 22:12:28.342.dfm,C:\Users\yankA\Desktop\pyramid\Unit3.dfm=C:\Users\yankA\Desktop\pyramid\help_u.dfm</Transaction>
+    <Transaction>2019/10/01 13:46:07.580.pas,C:\Users\yankA\Desktop\pyramid\Unit3.pas=C:\Users\yankA\Desktop\pyramid\stats_u.pas</Transaction>
+    <Transaction>2019/10/01 13:46:07.580.dfm,C:\Users\yankA\Desktop\pyramid\Unit3.dfm=C:\Users\yankA\Desktop\pyramid\stats_u.dfm</Transaction>
+    <Transaction>2019/10/01 15:48:58.844.pas,C:\Users\yankA\Desktop\pyramid\Unit1.pas=C:\Users\yankA\Desktop\pyramid\Database_u.pas</Transaction>
+    <Transaction>2019/10/01 15:48:58.844.dfm,C:\Users\yankA\Desktop\pyramid\Unit1.dfm=C:\Users\yankA\Desktop\pyramid\Database_u.dfm</Transaction>
+    <Transaction>2019/10/01 16:01:04.808.pas,C:\Users\yankA\Desktop\pyramid\Unit3.pas=C:\Users\yankA\Desktop\pyramid\admin_u.pas</Transaction>
+    <Transaction>2019/10/01 16:01:04.808.dfm,C:\Users\yankA\Desktop\pyramid\Unit3.dfm=C:\Users\yankA\Desktop\pyramid\admin_u.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
